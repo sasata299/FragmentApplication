@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/sasata299/work/AndroidStudioProjects/FragmentApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/sasata299/work/AndroidStudioProjects/FragmentApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_4aa1f9e80d97b3e05b461695a9ad7fc98328900a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sasata299/work/AndroidStudioProjects/FragmentApplication/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/sasata299/work/AndroidStudioProjects/FragmentApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_bb0d119ed084966142492c15279eb5afba3a5434/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sasata299/work/AndroidStudioProjects/FragmentApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/sasata299/work/AndroidStudioProjects/FragmentApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_e85abb3a4b9ba549040dfe67812a1f63bfe1d7c4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sasata299/work/AndroidStudioProjects/FragmentApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/sasata299/work/AndroidStudioProjects/FragmentApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_1e64dd2d25da32339e4f6d30ea7217d0ed963c38/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sasata299/work/AndroidStudioProjects/FragmentApplication/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/sasata299/work/AndroidStudioProjects/FragmentApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_ffd677c527384555b8331ac8a86cb55bbe47f086/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sasata299/work/AndroidStudioProjects/FragmentApplication/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="37b72d1732f32e4d0705c472c6c225f2f7490fbe">
+        <dex dex="/Users/sasata299/work/AndroidStudioProjects/FragmentApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7ba3cb42a9d35441ab96178dcb3d24203ec7684f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sasata299/work/AndroidStudioProjects/FragmentApplication/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="430d116ddfaa98135b640fe7cf2a15f6784832b1">
+        <dex dex="/Users/sasata299/work/AndroidStudioProjects/FragmentApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7def5b06b8e75b1a59717b4fb1b96f11f05a3bf0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/sasata299/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/sasata299/work/AndroidStudioProjects/FragmentApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_2a6f2d45de0eeeaa86a0bf8ba14634cfd8eca582/classes.dex" />
+    </item>
+
+</items>
